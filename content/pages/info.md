@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: R
       - type: Label
-        label: React
+        label: Python
       - type: Label
         label: Microsoft Office
       - type: Label
