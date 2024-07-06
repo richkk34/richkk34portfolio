@@ -15,9 +15,14 @@ sections:
     backgroundSize: full
     title: 'I AM A DATA ANALYST, ACADEMIC AND MARKET RESEARCHER'
     subtitle: >-
-      I'm providing you with my information to showcase the effort I've put in
-      over the last few years. After you're impressed, feel free to scroll down
-      for further information and credentials.
+      I'm sharing my details to demonstrate the work I've done in the past few
+      years. If you're impressed, feel free to scroll down for more info and
+      credentials.If you're impressed, feel free to scroll down for more info
+      and credentials. In the subsequent sections, you'll find detailed project
+      outlines, performance metrics, and testimonials that further validate my
+      expertise and dedication to delivering exceptional results. Let's delve
+      deeper into the intricacies of my work and explore the impact it has had
+      on various industries and clients.
     styles:
       self:
         height: auto
