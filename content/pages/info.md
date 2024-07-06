@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: SPSS
       - type: Label
-        label: Netlify
+        label: EViews
       - type: Label
         label: Pancakes
       - type: Label
