@@ -227,7 +227,7 @@ sections:
       - type: Label
         label: Power BI
       - type: Label
-        label: C++
+        label: Tableau
       - type: Label
         label: Swift
   - type: DividerSection
