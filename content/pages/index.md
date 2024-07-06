@@ -18,14 +18,15 @@ sections:
       I'm sharing my information to demonstrate the effort I've invested in the
       past few years. Once you're impressed, feel free to scroll down for more
       details about my credentials.                                       I
-      graduated with an Mphill in Actuarial Science from Kwame Nkrumah
-      University of Science and Technology, specializing in Artificial
-      Intelligence. My passion lies in developing innovative solutions using
-      machine learning algorithms. Recently, I led a team project on natural
-      language processing, achieving a 20% increase in accuracy. My expertise
-      includes deep learning frameworks like TensorFlow and PyTorch. Diligent
-      and detail-oriented, I thrive in collaborative environments where
-      creativity flourishes. Thank you for considering my profile.
+      graduated with an MPhil in Actuarial Science from Kwame Nkrumah University
+      of Science and Technology, specializing in Machine learning and
+      Statistical modelling. My passion lies in developing innovative solutions
+      using for my clients using machine learning and deep learning  algorithms.
+      Recently, I led a team project on natural language processing, achieving a
+      20% increase in accuracy. My expertise includes deep learning frameworks
+      like TensorFlow and PyTorch. Diligent and detail-oriented, I thrive in
+      collaborative environments where creativity flourishes. Thank you for
+      considering my profile.
     styles:
       self:
         height: auto
