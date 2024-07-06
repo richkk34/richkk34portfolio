@@ -15,14 +15,16 @@ sections:
     backgroundSize: full
     title: 'I AM A DATA ANALYST, ACADEMIC AND MARKET RESEARCHER'
     subtitle: >-
-      I'm sharing my details to demonstrate the work I've done in the past few
-      years. If you're impressed, feel free to scroll down for more info and
-      credentials.If you're impressed, feel free to scroll down for more info
-      and credentials. In the subsequent sections, you'll find detailed project
-      outlines, performance metrics, and testimonials that further validate my
-      expertise and dedication to delivering exceptional results. Let's delve
-      deeper into the intricacies of my work and explore the impact it has had
-      on various industries and clients.
+      I'm sharing my information to demonstrate the effort I've invested in the
+      past few years. Once you're impressed, feel free to scroll down for more
+      details and credentials.I graduated with a Master's in Computer Science
+      from Stanford University, specializing in Artificial Intelligence. My
+      passion lies in developing innovative solutions using machine learning
+      algorithms. Recently, I led a team project on natural language processing,
+      achieving a 20% increase in accuracy. My expertise includes deep learning
+      frameworks like TensorFlow and PyTorch. Diligent and detail-oriented, I
+      thrive in collaborative environments where creativity flourishes. Thank
+      you for considering my profile.
     styles:
       self:
         height: auto
