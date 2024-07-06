@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       I'm sharing my information to demonstrate the effort I've invested in the
       past few years. Once you're impressed, feel free to scroll down for more
-      details and credentials.I graduated with a Master's in Computer Science
+      details and credentials .I graduated with a Master's in Computer Science
       from Stanford University, specializing in Artificial Intelligence. My
       passion lies in developing innovative solutions using machine learning
       algorithms. Recently, I led a team project on natural language processing,
