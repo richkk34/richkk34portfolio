@@ -13,11 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      Welcome to my portfolio! I am a dedicated data analyst, academic, and
+      market researcher with a passion for deriving insights from data to drive
+      informed decisions. With over 7 years of experience in Data Analytics and
+      Research, I specialize in R, Python, SPSS, EViews, Power BI and Tableau.
+      My academic background in Mathematics, Statistics and Business complements
+      my practical expertise, allowing me to approach data challenges from both
+      theoretical and practical perspectives.
+
+
+
+
     media:
       type: ImageBlock
       url: /images/IMG_20240428_132927_397.jpg
