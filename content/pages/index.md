@@ -21,7 +21,7 @@ sections:
       graduated with an MPhil in Actuarial Science from Kwame Nkrumah University
       of Science and Technology, specializing in Machine learning and
       Statistical modelling. My passion lies in developing innovative solutions
-      using for my clients using machine learning and deep learning  algorithms.
+      using for my clients using machine learning and deep learning algorithms.
       Recently, I led a team project on natural language processing, achieving a
       20% increase in accuracy. My expertise includes deep learning frameworks
       like TensorFlow and PyTorch. Diligent and detail-oriented, I thrive in
