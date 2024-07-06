@@ -50,8 +50,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      Data Scientist
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
